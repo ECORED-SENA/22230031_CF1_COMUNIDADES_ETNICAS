@@ -1,0 +1,100 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "intro",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/1-tema.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "comunidades",
+    "title": "1. Comunidades étnicas",
+    "breadcrumb": ["Inicio","comunidades"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "comunidades",
+        "title": "1.1 Grupos étnicos y organización",
+        "anchor": "grupos"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "comunidades",
+        "title": "1.2 Cosmovisión",
+        "anchor": "cosmovision"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "comunidades",
+        "title": "1.3 Enfoque diferencial étnico-normatividad",
+        "anchor": "enfoque"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "aspectos",
+    "title": "2. Aspectos ambientales",
+    "breadcrumb": ["Inicio","aspectos"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "aspectos",
+        "title": "2.1 Factores ambientales",
+        "anchor": "factores"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "aspectos",
+        "title": "2.2 Evaluación del impacto ambiental",
+        "anchor": "evaluacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "aspectos",
+        "title": "2.3 Normatividad aplicada al medio ambiente",
+        "anchor": "normatividad"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "caracterizacion",
+    "title": "3. Caracterización",
+    "breadcrumb": ["Inicio","caracterizacion"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "caracterizacion",
+        "title": "3.1 Caracterización socio ambiental de comunidades étnicas",
+        "anchor": "caracterizacion1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "caracterizacion",
+        "title": "3.2 Técnicas e instrumentos para la caracterización",
+        "anchor": "tecnicas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "caracterizacion",
+        "title": "3.3 Análisis de información de la caracterización",
+        "anchor": "analisis"
+      }
+    ]
+  }
+]
