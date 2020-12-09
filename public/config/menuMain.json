@@ -96,5 +96,11 @@
         "anchor": "analisis"
       }
     ]
-  }
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad.html"
+  } 
 ]
