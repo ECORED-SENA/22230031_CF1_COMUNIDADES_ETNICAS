@@ -28,13 +28,13 @@
         "anchor": "grupos"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "comunidades",
         "title": "1.2 Cosmovisión",
         "anchor": "cosmovision"
       },
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "comunidades",
         "title": "1.3 Enfoque diferencial étnico-normatividad",
         "anchor": "enfoque"
